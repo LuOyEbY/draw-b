@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:05:33.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="671_L9hO4KDuDZaUDYpB" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:06:03.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ooUptXHcH_Zdh5QOX60x" version="17.4.6" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
     <mxGraphModel dx="1984" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1145,7 +1145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCJv7vNouFcmNRFZSN24-590" value="关联自建贴&lt;br&gt;和同步贴&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="YCJv7vNouFcmNRFZSN24-575">
-          <mxGeometry x="80" y="-11" width="90" height="40" as="geometry" />
+          <mxGeometry x="90" y="-11" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCJv7vNouFcmNRFZSN24-584" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-568" target="YCJv7vNouFcmNRFZSN24-571">
           <mxGeometry relative="1" as="geometry">
