@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T07:49:43.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aRaRVW2QzafSeJJF_kdZ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T07:59:32.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2apyLCrPS_YwkrnmduaC" version="17.4.6" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
     <mxGraphModel dx="1984" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1549,6 +1549,24 @@
         <mxCell id="YCJv7vNouFcmNRFZSN24-721" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hdfs_cluster;fillColor=#F58534;gradientColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="4490" width="131.5" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-741" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-729">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-742" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-730">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-743" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-731">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-744" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-732">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-745" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.379;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-737">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCJv7vNouFcmNRFZSN24-746" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="YCJv7vNouFcmNRFZSN24-728" target="YCJv7vNouFcmNRFZSN24-739">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCJv7vNouFcmNRFZSN24-728" value="HDFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="470" y="4620" width="70" height="30" as="geometry" />
         </mxCell>
@@ -1564,29 +1582,29 @@
         <mxCell id="YCJv7vNouFcmNRFZSN24-732" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="518.25" y="4800" width="56.00000000000001" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-733" value="reusme_list.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="4880" width="150" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-733" value="reusme_list.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="4880" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-734" value="resume_down.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="75.25" y="4880" width="170" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-734" value="resume_down.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70.25" y="4880" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-735" value="resume_info.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="4880" width="160" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-735" value="resume_info.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="4880" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-736" value="invi.log&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="511.25" y="4880" width="80" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-736" value="invi.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="506.25" y="4880" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YCJv7vNouFcmNRFZSN24-737" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="747" y="4800" width="56.00000000000001" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-738" value="job_list.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="721.25" y="4880" width="110" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-738" value="job_list.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="716.25" y="4880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YCJv7vNouFcmNRFZSN24-739" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1012" y="4800" width="56.00000000000001" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YCJv7vNouFcmNRFZSN24-740" value="job_order.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="976.25" y="4880" width="130" height="30" as="geometry" />
+        <mxCell id="YCJv7vNouFcmNRFZSN24-740" value="job_order.hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="971.25" y="4880" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
