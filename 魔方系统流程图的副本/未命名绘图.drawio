@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T05:50:14.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="kW9eVP8KA-EXHEDYbNHq" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T05:53:13.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="cR563VZUgSQZ0wVqRi5o" version="18.1.1" type="github">
   <diagram id="KZ12BVjnvBJR9FauCuW-" name="第 1 页">
-    <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,11 +42,11 @@
         <mxCell id="zx7tz8fq21GNRVPOgnmk-19" value="将结果集根据策略进行分数计算，生成新的结果集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zx7tz8fq21GNRVPOgnmk-22" value="{&lt;br&gt;&quot;召回key&quot;:&quot;结果集&quot;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;align=left;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="170" height="100" as="geometry" />
+        <mxCell id="zx7tz8fq21GNRVPOgnmk-22" value="{&lt;br&gt;&quot;召回key&quot;:{&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;data&quot;:&quot;结果集&quot;，&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;权重&quot;:&quot;权重值&quot;&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;}&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;align=left;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-13" width="273" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="zx7tz8fq21GNRVPOgnmk-23" value="{&lt;br&gt;&quot;系统优先级&quot;：{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;召回key&quot;:&quot;系统优先级分数&quot;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;}，&lt;br&gt;&quot;权重&quot;：{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;召回key&quot;:&quot;权重分数&quot;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;}&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;align=left;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="720" y="190" width="436" height="230" as="geometry" />
+        <mxCell id="zx7tz8fq21GNRVPOgnmk-23" value="{&lt;br&gt;&quot;系统优先级&quot;：{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;召回key&quot;:&quot;系统优先级分数&quot;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;}&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;align=left;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="698" y="240" width="436" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zx7tz8fq21GNRVPOgnmk-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="zx7tz8fq21GNRVPOgnmk-24" target="zx7tz8fq21GNRVPOgnmk-26">
           <mxGeometry relative="1" as="geometry" />
