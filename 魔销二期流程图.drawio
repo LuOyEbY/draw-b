@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:06:47.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="dGTzbCGn5TNRTq0qYQQG" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:17:52.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Z_cpSi8tNa_LuBxYVQD_" version="19.0.2" type="github">
   <diagram id="wgBlVhovMK9ZvSngc1W-" name="第 1 页">
-    <mxGraphModel dx="5237" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5237" dy="1934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1452,6 +1452,9 @@
         <mxCell id="c3yYRgItxj0xwHfutBmN-484" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="c3yYRgItxj0xwHfutBmN-481" target="c3yYRgItxj0xwHfutBmN-483">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c3yYRgItxj0xwHfutBmN-505" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="c3yYRgItxj0xwHfutBmN-481" target="c3yYRgItxj0xwHfutBmN-504">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c3yYRgItxj0xwHfutBmN-481" value="回显订单中的收费标准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2523.75" y="1960" width="217.5" height="40" as="geometry" />
         </mxCell>
@@ -1499,6 +1502,9 @@
         </mxCell>
         <mxCell id="c3yYRgItxj0xwHfutBmN-500" value="提交" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1880" y="1560" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c3yYRgItxj0xwHfutBmN-504" value="同步修改外包评估和项目中的收费标准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="1960" width="365" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
