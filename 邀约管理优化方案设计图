@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:14:33.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="QkxTGQyWKYfk8pEYwz-5" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T08:21:42.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="78W63kCXa-ehkq0pownh" version="20.0.4" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
     <mxGraphModel dx="1826" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1639,7 +1639,7 @@
         <mxCell id="yMMyspePDzG-_b4UpG4T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-15" target="yMMyspePDzG-_b4UpG4T-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMMyspePDzG-_b4UpG4T-15" value="推荐系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMMyspePDzG-_b4UpG4T-15" value="魔方推荐系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-17" target="yMMyspePDzG-_b4UpG4T-20">
@@ -1681,6 +1681,97 @@
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-34" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1115" y="2090" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-42" target="yMMyspePDzG-_b4UpG4T-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-42" value="获取所有招聘中且有DL接单的职位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-45" target="yMMyspePDzG-_b4UpG4T-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-45" target="yMMyspePDzG-_b4UpG4T-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-45" value="调用魔方简历推荐接口获取简历集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="2300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-47" target="yMMyspePDzG-_b4UpG4T-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-47" value="获取职位的接单DL集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="2420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-49" target="yMMyspePDzG-_b4UpG4T-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-49" value="轮询，分配推荐的简历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-51" target="yMMyspePDzG-_b4UpG4T-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-51" value="魔方推荐系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-53" target="yMMyspePDzG-_b4UpG4T-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-53" value="DL&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="2230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-55" target="yMMyspePDzG-_b4UpG4T-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-55" value="魔聘系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-57" target="yMMyspePDzG-_b4UpG4T-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-57" value="招聘管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-59" target="yMMyspePDzG-_b4UpG4T-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-59" value="付费简历推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="2310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-61" target="yMMyspePDzG-_b4UpG4T-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="972.5" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-61" value="调取接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="2380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-62" value="WCS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-63" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1117.5" y="2530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-65" target="yMMyspePDzG-_b4UpG4T-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-65" target="yMMyspePDzG-_b4UpG4T-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-65" value="调用恒星简历推荐接口获取简历集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="2360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-70" target="yMMyspePDzG-_b4UpG4T-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-70" value="恒星推荐接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-73" value="HX简历库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2450" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
