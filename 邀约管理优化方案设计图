@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T03:02:53.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="HOQOzy6HrYvrsyFeVG0U" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T03:04:52.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="4OsIjcmEs-m-U2sfl3ZP" version="20.0.4" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
     <mxGraphModel dx="1497" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1658,17 +1658,11 @@
         <mxCell id="yMMyspePDzG-_b4UpG4T-4" value="调用简历推荐接口获取推荐的简历集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1085" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yMMyspePDzG-_b4UpG4T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-6" target="yMMyspePDzG-_b4UpG4T-9">
+        <mxCell id="yMMyspePDzG-_b4UpG4T-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-6" target="yMMyspePDzG-_b4UpG4T-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-6" value="获取职位的接单DL集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1085" y="1940" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yMMyspePDzG-_b4UpG4T-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-9" target="yMMyspePDzG-_b4UpG4T-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yMMyspePDzG-_b4UpG4T-9" value="轮询，分配推荐的简历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="2010" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-15" target="yMMyspePDzG-_b4UpG4T-32">
           <mxGeometry relative="1" as="geometry" />
