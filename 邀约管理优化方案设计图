@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T06:38:41.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="XfJS9mcR0So19Z3eB23m" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T07:02:51.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="1jS8eUA2Wl7skSpoXdoX" version="20.0.4" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
-    <mxGraphModel dx="1497" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2253,6 +2253,60 @@
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-361" value="注意查询的条件，如果是全部职位，&lt;br&gt;则重新推送全部职位，如果是单个职位，&lt;br&gt;则重新推送单个职位" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;labelBackgroundColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="3570" y="2876" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-362" value="招聘管理-付费简历监听接单binlog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2640" y="3110" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-365" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-363" target="yMMyspePDzG-_b4UpG4T-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-363" value="CONSUMER" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="3160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-369" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-364" target="yMMyspePDzG-_b4UpG4T-368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-364" value="project_team" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="3230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-371" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-368" target="yMMyspePDzG-_b4UpG4T-370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-368" target="yMMyspePDzG-_b4UpG4T-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-368" value="是否为取消接单" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2705" y="3311" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-381" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-370" target="yMMyspePDzG-_b4UpG4T-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-387" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="yMMyspePDzG-_b4UpG4T-370" target="yMMyspePDzG-_b4UpG4T-386">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-370" value="是否为新接单" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="2935" y="3311" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-372" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="3345" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-375" value="从ES中获取&lt;font color=&quot;#ff0000&quot;&gt;当前DL在当前取消接单职位的&lt;/font&gt;推荐简历，过滤出未填写沟通和沟通记录为电话未接通的简历，将这些简历&lt;font color=&quot;#ff0000&quot;&gt;轮询分给其他接单的DL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF33;fontSize=17;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="3496" width="190" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-377" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="3451" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-380" value="不做任何处理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF33;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="3361" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-382" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="3100" y="3345" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-385" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="3451" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMMyspePDzG-_b4UpG4T-386" value="从ES中获取&lt;font color=&quot;#ff0000&quot;&gt;当前新接单职位的&lt;/font&gt;所有推荐简历，过滤出未填写沟通和沟通记录为电话未接通的简历，将这些简历&lt;font color=&quot;#ff0000&quot;&gt;轮询分给所有接单的DL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF33;fontSize=17;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2915" y="3496" width="190" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
