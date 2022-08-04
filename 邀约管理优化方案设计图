@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T03:13:04.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="fHA6vhbf0w2Ub7LB_nS1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T03:13:30.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="p2L5epRPu4xubs2hahTA" version="20.0.4" type="github">
   <diagram id="VYfNMx1KyCp30dslBPiC" name="第 1 页">
     <mxGraphModel dx="1497" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1882,8 +1882,8 @@
         <mxCell id="yMMyspePDzG-_b4UpG4T-112" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;分配过滤条件：&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp;1.简历被当前dl释放&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp;2.dl取消了接单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2343.75" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="yMMyspePDzG-_b4UpG4T-114" value="轮询分配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2055" y="2356.25" width="70" height="30" as="geometry" />
+        <mxCell id="yMMyspePDzG-_b4UpG4T-114" value="去重轮询分配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="2360" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yMMyspePDzG-_b4UpG4T-115" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;过滤条件：&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp;1.DL在职&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2236.25" width="120" height="57.5" as="geometry" />
