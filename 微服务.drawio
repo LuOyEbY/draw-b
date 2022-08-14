@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T12:09:56.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="nhrHhunaLKlflbur1fBo" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-14T12:14:05.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="0b3L-K67I6KvQu7GkKbk" version="20.2.3" type="github">
   <diagram id="OBwVd87PNqXVU-20cUN8" name="第 1 页">
-    <mxGraphModel dx="1826" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,8 +139,8 @@
         <mxCell id="XJ9ibDvzPIqZy9BsVPSS-60" value="集群架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XJ9ibDvzPIqZy9BsVPSS-63" value="垂直拆分服务化架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="920" width="240" height="40" as="geometry" />
+        <mxCell id="XJ9ibDvzPIqZy9BsVPSS-63" value="垂直拆分服务化架构&lt;br&gt;魔聘系统架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-197" y="905" width="234" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XJ9ibDvzPIqZy9BsVPSS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;" edge="1" parent="1" source="XJ9ibDvzPIqZy9BsVPSS-64" target="XJ9ibDvzPIqZy9BsVPSS-69">
           <mxGeometry relative="1" as="geometry" />
