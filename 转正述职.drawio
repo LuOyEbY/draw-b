@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T03:53:59.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oAgDedXqx6EtBhxqfm4r" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T03:55:09.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="h5ocq8EfNiKlflNfkxg_" version="20.2.3" type="github">
   <diagram id="NoW-SyKpE0SGP1FMZ9Sw" name="第 1 页">
     <mxGraphModel dx="5574" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2475,19 +2475,34 @@
           <mxGeometry x="-3280" y="15145" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1552" value="redis" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2874.5" y="15970" width="240" height="290" as="geometry" />
+          <mxGeometry x="-2874.5" y="15990" width="474.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1553" value="jobApi" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2874.5" y="15640" width="244.5" height="270" as="geometry" />
+          <mxGeometry x="-2874.5" y="15640" width="474.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1555" value="key1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2814.5" y="16020" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2849" y="16060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1556" value="key2" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2814.5" y="16100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2694.5" y="16060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1557" value="key3" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2812.25" y="16180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550.5" y="16060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1558" value="交付人接单" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="15697.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1559" value="流量承接" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2642.31" y="15697.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1560" value="取消接单" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2849" y="15782.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1561" value="账号禁用" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2639.5" y="15782.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1562" value="流量时效" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="15870" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
