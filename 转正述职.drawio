@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T03:55:09.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="h5ocq8EfNiKlflNfkxg_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T03:55:52.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="q85e0AWu_8j9URlK2VXr" version="20.2.3" type="github">
   <diagram id="NoW-SyKpE0SGP1FMZ9Sw" name="第 1 页">
     <mxGraphModel dx="5574" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2503,6 +2503,12 @@
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1562" value="流量时效" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;strokeColor=#D5E8D4;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2850" y="15870" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1563" value="存储层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="16045" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1564" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="15782.5" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
