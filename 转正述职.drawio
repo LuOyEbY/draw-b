@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T16:58:39.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lnAQEKcQ1ZL_K8wdGo09" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T02:10:32.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dmPJqdWMA7vO5jd68wwE" version="20.2.3" type="github">
   <diagram id="NoW-SyKpE0SGP1FMZ9Sw" name="第 1 页">
     <mxGraphModel dx="5702" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2358,7 +2358,7 @@
         <mxCell id="K0vF9ITfE5kKBza87MtR-1493" value="简历" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;glass=0;dashed=1;sketch=0;fillStyle=auto;fontSize=30;strokeColor=#996185;strokeWidth=5;fillColor=#e6d0de;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="-1738.6799999999998" y="14445" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="K0vF9ITfE5kKBza87MtR-1494" value="相同交付人争抢同一份简历" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="K0vF9ITfE5kKBza87MtR-1494" value="不同交付人争抢同一份简历" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;sketch=0;fillStyle=auto;fontSize=30;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-2218.96" y="14292" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K0vF9ITfE5kKBza87MtR-1496" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#FF0000;endSize=6;strokeColor=#FF0000;strokeWidth=4;elbow=vertical;" parent="1" source="K0vF9ITfE5kKBza87MtR-1495" target="K0vF9ITfE5kKBza87MtR-1489" edge="1">
