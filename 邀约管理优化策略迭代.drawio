@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T03:27:25.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.3.2" etag="lfjwb2SUX893lyxNyDjG" type="github"><diagram id="sYPm4JJddVuIYyghLmJY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-19T08:16:59.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="znB4o_TSmM1n4H6iYOFX" version="20.4.1" type="github">
+  <diagram id="sYPm4JJddVuIYyghLmJY" name="第 1 页">
+    <mxGraphModel dx="1826" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-1" target="LWuJ64vNX8WBU4MSDf6A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-1" value="dl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-2" target="LWuJ64vNX8WBU4MSDf6A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-2" value="免费简历推荐列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-4" target="LWuJ64vNX8WBU4MSDf6A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-4" value="免费简历详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-6" target="LWuJ64vNX8WBU4MSDf6A-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="-30" />
+              <mxPoint x="100" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-22" value="列表页推荐不同职位的相同简历&lt;br&gt;跟进状态变更为已跟进" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=#000000;labelBackgroundColor=#F8CECC;" vertex="1" connectable="0" parent="LWuJ64vNX8WBU4MSDf6A-21">
+          <mxGeometry x="0.0688" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-6" value="添加沟通记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-33" target="LWuJ64vNX8WBU4MSDf6A-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-33" value="dl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-35" target="LWuJ64vNX8WBU4MSDf6A-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-35" value="付费简历推荐列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-37" target="LWuJ64vNX8WBU4MSDf6A-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-37" value="付费简历详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-40" target="LWuJ64vNX8WBU4MSDf6A-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="290" />
+              <mxPoint x="100" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-39" value="列表页推荐不同职位的相同简历&lt;br&gt;跟进状态变更为已跟进" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=#000000;labelBackgroundColor=#B9E0A5;" vertex="1" connectable="0" parent="LWuJ64vNX8WBU4MSDf6A-38">
+          <mxGeometry x="0.0688" y="1" relative="1" as="geometry">
+            <mxPoint x="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LWuJ64vNX8WBU4MSDf6A-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="200" as="sourcePoint" />
+            <mxPoint x="140" y="537" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="200" />
+              <mxPoint x="540" y="360" />
+              <mxPoint x="100" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-47" value="&lt;span style=&quot;&quot;&gt;列表页推荐不同职位的相同简历&lt;/span&gt;&lt;br&gt;消失" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;labelBackgroundColor=#B9E0A5;" vertex="1" connectable="0" parent="LWuJ64vNX8WBU4MSDf6A-46">
+          <mxGeometry x="0.2356" y="3" relative="1" as="geometry">
+            <mxPoint x="37" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-40" value="添加沟通记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-41" target="LWuJ64vNX8WBU4MSDf6A-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-41" value="其他dl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-44" value="付费简历推荐列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="450" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
