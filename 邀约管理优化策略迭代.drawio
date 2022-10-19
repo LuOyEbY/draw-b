@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T08:45:07.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Vzhyu__a6tioi-DTDMup" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T08:48:56.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KRu_Ut9fEW4yFyhU9Hg-" version="20.4.1" type="github">
   <diagram id="sYPm4JJddVuIYyghLmJY" name="第 1 页">
     <mxGraphModel dx="1826" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-1" value="dl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-160" width="80" height="40" as="geometry" />
+          <mxGeometry x="-120" y="-20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-2" target="LWuJ64vNX8WBU4MSDf6A-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-2" value="免费简历推荐列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry y="-160" width="200" height="40" as="geometry" />
+          <mxGeometry y="-20" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-4" target="LWuJ64vNX8WBU4MSDf6A-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-4" value="免费简历详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-160" width="200" height="40" as="geometry" />
+          <mxGeometry x="230" y="-20" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-6" target="LWuJ64vNX8WBU4MSDf6A-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="-30" />
-              <mxPoint x="100" y="-30" />
+              <mxPoint x="545" y="110" />
+              <mxPoint x="100" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-6" value="添加沟通记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-160" width="170" height="40" as="geometry" />
+          <mxGeometry x="460" y="-20" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-33" target="LWuJ64vNX8WBU4MSDf6A-35">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="120" y="200" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-54" value="ES-CONSUMER" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="800" width="120" height="300" as="geometry" />
+          <mxGeometry x="-120" y="970" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="LWuJ64vNX8WBU4MSDf6A-54">
           <mxGeometry x="55" y="90" width="10" height="80" as="geometry" />
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-60" value="ES-SERVICE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry y="800" width="120" height="300" as="geometry" />
+          <mxGeometry x="80" y="970" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="LWuJ64vNX8WBU4MSDf6A-60">
           <mxGeometry x="55" y="90" width="10" height="80" as="geometry" />
@@ -130,37 +130,37 @@
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-55" target="LWuJ64vNX8WBU4MSDf6A-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-80" y="901" />
-              <mxPoint x="-80" y="901" />
+              <mxPoint y="1071" />
+              <mxPoint y="1071" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-65" value="修改当前简历当前&lt;br&gt;职位的跟进状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-100" y="865" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="1035" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-67" value="ES&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;rounded=0;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="200" y="905" width="50" height="49" as="geometry" />
+          <mxGeometry x="280" y="1075" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-61" target="LWuJ64vNX8WBU4MSDf6A-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-55" target="LWuJ64vNX8WBU4MSDf6A-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="950" as="targetPoint" />
+            <mxPoint x="130" y="1120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-90" y="950" />
-              <mxPoint x="-90" y="950" />
+              <mxPoint x="-10" y="1120" />
+              <mxPoint x="-10" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-70" value="修改当前简历其他&lt;br&gt;职位的跟进状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-100" y="909.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="1079.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-71" value="免费简历添加沟通记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="760" width="260" height="40" as="geometry" />
+          <mxGeometry x="-120" y="930" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-72" value="ES-CONSUMER" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1240" width="120" height="300" as="geometry" />
+          <mxGeometry x="-120" y="1370" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="LWuJ64vNX8WBU4MSDf6A-72">
           <mxGeometry x="55" y="90" width="10" height="130" as="geometry" />
@@ -172,53 +172,62 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-75" value="ES-SERVICE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry y="1240" width="120" height="300" as="geometry" />
+          <mxGeometry x="80" y="1370" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="LWuJ64vNX8WBU4MSDf6A-75">
           <mxGeometry x="55" y="90" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-78" value="修改当前简历当前&lt;br&gt;职位的跟进状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1305" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="1435" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-79" value="ES&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;rounded=0;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1370.5" width="50" height="49" as="geometry" />
+          <mxGeometry x="280" y="1500.5" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-76" target="LWuJ64vNX8WBU4MSDf6A-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="1390" as="targetPoint" />
+            <mxPoint x="135" y="1520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-90" y="1390" />
-              <mxPoint x="-90" y="1390" />
+              <mxPoint x="-10" y="1520" />
+              <mxPoint x="-10" y="1520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-82" value="修改当前简历其他&lt;br&gt;职位的跟进状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1354" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="1484" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-83" value="付费简历添加沟通记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1200" width="260" height="40" as="geometry" />
+          <mxGeometry x="-120" y="1330" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-73" target="LWuJ64vNX8WBU4MSDf6A-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-90" y="1341" />
-              <mxPoint x="-90" y="1341" />
+              <mxPoint x="-10" y="1471" />
+              <mxPoint x="-10" y="1471" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-73" target="LWuJ64vNX8WBU4MSDf6A-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-90" y="1444" />
-              <mxPoint x="-90" y="1444" />
+              <mxPoint x="-10" y="1574" />
+              <mxPoint x="-10" y="1574" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LWuJ64vNX8WBU4MSDf6A-86" value="删除当前简历在其他&lt;br&gt;DL的推荐列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-105" y="1410" width="130" height="40" as="geometry" />
+          <mxGeometry x="-25" y="1540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="LWuJ64vNX8WBU4MSDf6A-87" target="LWuJ64vNX8WBU4MSDf6A-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-87" value="推荐工程" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="760" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWuJ64vNX8WBU4MSDf6A-88" value="当日沟通过滤策略（不区分职位）" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="745" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
