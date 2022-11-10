@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T07:38:50.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="CsTEd3NsYNulWpvyaNR8" type="github"><diagram id="SCwV13mbVVRNKIt9pb0m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:38:52.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EKKl57qZZC4fuaDtfZ57" version="20.5.3" type="github">
+  <diagram id="SCwV13mbVVRNKIt9pb0m" name="第 1 页">
+    <mxGraphModel dx="2226" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;付费简历推荐-新增-列表字段-下载状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-720" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-3" target="PC8SQWhDRnTynaGVxxOA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-3" value="SCF接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-640" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-4" target="PC8SQWhDRnTynaGVxxOA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-4" value="恒星简历下载ESB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-6" target="PC8SQWhDRnTynaGVxxOA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-6" value="更新简历推荐索引接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-600" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-10" target="PC8SQWhDRnTynaGVxxOA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-10" target="PC8SQWhDRnTynaGVxxOA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-10" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-14" target="PC8SQWhDRnTynaGVxxOA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-14" value="下载魔方简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-640" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="PC8SQWhDRnTynaGVxxOA-16" target="PC8SQWhDRnTynaGVxxOA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-16" value="下载恒星简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PC8SQWhDRnTynaGVxxOA-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;ES&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-610.16" width="49" height="60.31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
