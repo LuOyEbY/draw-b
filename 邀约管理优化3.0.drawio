@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T11:41:10.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2WI_cNfa_A7bosaACvIT" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:44:11.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0h_oqUTxhn24NvM1KY6T" version="20.5.3" type="github">
   <diagram id="SCwV13mbVVRNKIt9pb0m" name="第 1 页">
     <mxGraphModel dx="2226" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,17 +632,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQeFd-S0T9eSnEtIoPAK-4" value="MF-RESUMEAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-4" value="wConfig" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="-520" y="2820" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MQeFd-S0T9eSnEtIoPAK-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="MQeFd-S0T9eSnEtIoPAK-4">
           <mxGeometry x="55" y="90" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MQeFd-S0T9eSnEtIoPAK-6" value="ES&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;rounded=0;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="2950.5" width="50" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MQeFd-S0T9eSnEtIoPAK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="MQeFd-S0T9eSnEtIoPAK-5" target="MQeFd-S0T9eSnEtIoPAK-6" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-169.37" y="2950.5" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MQeFd-S0T9eSnEtIoPAK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQeFd-S0T9eSnEtIoPAK-2" target="MQeFd-S0T9eSnEtIoPAK-5">
           <mxGeometry relative="1" as="geometry">
@@ -652,7 +649,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQeFd-S0T9eSnEtIoPAK-13" value="免费简历推荐&lt;br&gt;时间优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBorderColor=default;" vertex="1" connectable="0" parent="MQeFd-S0T9eSnEtIoPAK-11">
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-13" value="免费简历推荐&lt;br&gt;时间优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF66;" vertex="1" connectable="0" parent="MQeFd-S0T9eSnEtIoPAK-11">
           <mxGeometry x="-0.0947" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
           </mxGeometry>
@@ -665,10 +662,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQeFd-S0T9eSnEtIoPAK-14" value="付费简历推荐&lt;br&gt;时间优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBorderColor=default;" vertex="1" connectable="0" parent="MQeFd-S0T9eSnEtIoPAK-12">
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-14" value="付费简历推荐&lt;br&gt;时间优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF66;" vertex="1" connectable="0" parent="MQeFd-S0T9eSnEtIoPAK-12">
           <mxGeometry x="-0.0211" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-15" value="MF-RESUMEAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="2820" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;labelBorderColor=none;" vertex="1" parent="MQeFd-S0T9eSnEtIoPAK-15">
+          <mxGeometry x="55" y="90" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="MQeFd-S0T9eSnEtIoPAK-5" target="MQeFd-S0T9eSnEtIoPAK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQeFd-S0T9eSnEtIoPAK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="MQeFd-S0T9eSnEtIoPAK-16" target="MQeFd-S0T9eSnEtIoPAK-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
