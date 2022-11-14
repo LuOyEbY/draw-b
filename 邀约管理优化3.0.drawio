@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T03:50:32.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5k6m4WU3DSluvhksnPHG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T03:55:10.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Wky98_YvU4Z9mFMyM5Yx" version="20.5.3" type="github">
   <diagram id="SCwV13mbVVRNKIt9pb0m" name="第 1 页">
     <mxGraphModel dx="2226" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
           <mxGeometry x="55" y="100" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="y4Mw3tPiZwW4ROxLqeEE-143" value="沟通记录ES" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;rounded=0;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2045.5" width="50" height="49" as="geometry" />
+          <mxGeometry y="2045.5" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y4Mw3tPiZwW4ROxLqeEE-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="y4Mw3tPiZwW4ROxLqeEE-142" target="y4Mw3tPiZwW4ROxLqeEE-143" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -571,7 +571,7 @@
             <mxPoint x="-260" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-153" value="3个月，超过5个用户添加过（外地简历、&lt;br&gt;电话错误、不找工作）沟通记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-146">
+        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-153" value="3个月，超过5个用户添加过（外地简历、&lt;br&gt;电话错误、不找工作）沟通记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;labelBorderColor=default;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-146">
           <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
@@ -579,7 +579,7 @@
         <mxCell id="y4Mw3tPiZwW4ROxLqeEE-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeColor=#82B366;" edge="1" parent="1" source="y4Mw3tPiZwW4ROxLqeEE-139" target="y4Mw3tPiZwW4ROxLqeEE-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-154" value="1个月对简历添加的最后一条沟通记录的&lt;br&gt;状态为【无推荐岗位、外地简历、&lt;br&gt;电话错误、搞不定的简历、不找工作】" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;labelBorderColor=#FFFF66;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-151">
+        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-154" value="1个月对简历添加的最后一条沟通记录的&lt;br&gt;状态为【无推荐岗位、外地简历、&lt;br&gt;电话错误、搞不定的简历、不找工作】" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;labelBorderColor=#000000;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-151">
           <mxGeometry x="-0.1095" y="-2" relative="1" as="geometry">
             <mxPoint x="-116" y="-7" as="offset" />
           </mxGeometry>
@@ -592,7 +592,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-159" value="当前用户近2天对简历添加的最后一条沟通记录的状态为&#xa;【继续跟进、稍后再联系、有兴趣、预约成功、&#xa;面试跟进、offer跟进、入职跟进、计费跟进】的简历，&#xa;不推荐给当前用户，即1号添加了，2号不推荐，3号推荐" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-157">
+        <mxCell id="y4Mw3tPiZwW4ROxLqeEE-159" value="当前用户近2天对简历添加的最后一条沟通记录的状态为&#xa;【继续跟进、稍后再联系、有兴趣、预约成功、&#xa;面试跟进、offer跟进、入职跟进、计费跟进】的简历，&#xa;不推荐给当前用户，即1号添加了，2号不推荐，3号推荐" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#CCFFE6;labelBorderColor=default;" vertex="1" connectable="0" parent="y4Mw3tPiZwW4ROxLqeEE-157">
           <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
             <mxPoint x="-157" as="offset" />
           </mxGeometry>
