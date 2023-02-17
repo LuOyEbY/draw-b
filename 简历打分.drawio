@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:21:49.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="svkRbEainyEEAnWvPINB" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:44:19.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FzDX4W76rH1Bw80Yt33R" version="20.8.20" type="github">
   <diagram name="第 1 页" id="5mH8K1Bypizfiuxwx8Hr">
     <mxGraphModel dx="2166" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
         <mxCell id="ymhxMs8yh-sM8fpUY3Rv-216" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=3;fontSize=19;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="1847.5" width="400" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ymhxMs8yh-sM8fpUY3Rv-217" value="通用解析器（分值梯度解析）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ymhxMs8yh-sM8fpUY3Rv-217" value="通用解析器（分值解析）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="1855" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ymhxMs8yh-sM8fpUY3Rv-220" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=3;fontSize=19;fontColor=#3399FF;" vertex="1" parent="1">
@@ -465,7 +465,7 @@
         <mxCell id="ymhxMs8yh-sM8fpUY3Rv-227" value="结果数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="2020" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ymhxMs8yh-sM8fpUY3Rv-229" value="通用转换器（TMC原始数据装欢）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ymhxMs8yh-sM8fpUY3Rv-229" value="通用转换器（TMC原始数据转换）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="1855" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ymhxMs8yh-sM8fpUY3Rv-232" value="通用策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
