@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T08:38:45.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qwFkfZI3-HrTuhNQ9Mhb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T08:39:52.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6Wmc2Ffdb4BqJmDinTM0" version="20.8.23" type="github">
   <diagram name="第 1 页" id="no80ZFOdHZovuy_X-tqP">
     <mxGraphModel dx="1834" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-116" value="微聊群职位映射表接口封装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-320" y="920" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-117" value="MF-Proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-117" value="MF-Proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="160" y="1000" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-117">
@@ -202,7 +202,7 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-117">
           <mxGeometry x="55" y="250" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-121" value="IM-Bus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-121" value="IM-Bus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="400" y="1000" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-122" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-121">
@@ -272,7 +272,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-135" value="MF-Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-135" value="MF-Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-320" y="1400" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-136" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-135">
