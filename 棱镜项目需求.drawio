@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T09:35:35.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3fJ6kNfv1uiIxEN-mukS" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T09:38:10.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9cbHYwwCbvDkgE7V1wAG" version="20.8.23" type="github">
   <diagram name="第 1 页" id="no80ZFOdHZovuy_X-tqP">
     <mxGraphModel dx="2487" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-58" value="离开" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.message;pointerEvents=1;rounded=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="395" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-63" value="IM-WMB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-63" value="IM-WMB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
@@ -87,13 +87,13 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;shape=flexArrow;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-77" target="bVZNavHaQ_ImXWAmaFeS-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-77" value="ES-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-77" value="ES-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="165" y="690" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-79" target="bVZNavHaQ_ImXWAmaFeS-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-79" value="MF-WMB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-79" value="MF-WMB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-85" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-80" target="bVZNavHaQ_ImXWAmaFeS-84">
@@ -102,7 +102,7 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-80" value="微聊群职位映射表" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;rounded=0;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="225.5" y="520" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-84" value="ES-CONSUMER" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-84" value="ES-CONSUMER" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="165" y="650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" target="bVZNavHaQ_ImXWAmaFeS-89">
@@ -122,19 +122,19 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-438" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-89" target="bVZNavHaQ_ImXWAmaFeS-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-89" value="微聊消息页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-89" value="微聊消息页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-660" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-457" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-91" target="bVZNavHaQ_ImXWAmaFeS-440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-91" value="全部消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-91" value="全部消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-493.5" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-454" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-93" target="bVZNavHaQ_ImXWAmaFeS-453">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-93" value="项目消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-93" value="项目消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-493.5" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-103" target="bVZNavHaQ_ImXWAmaFeS-52">
@@ -144,13 +144,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-103" value="MF-WJOB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-103" value="MF-WJOB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="670" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-105" target="bVZNavHaQ_ImXWAmaFeS-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-105" value="MF-ConApi" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-105" value="MF-ConApi" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=21;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="164.25" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-109" value="微聊群职位映射表" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;rounded=0;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
@@ -945,22 +945,22 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-435" target="bVZNavHaQ_ImXWAmaFeS-440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-435" value="招聘消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-435" value="招聘消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-493.5" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-448" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-440" target="bVZNavHaQ_ImXWAmaFeS-447">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-440" value="MF-WF" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-440" value="MF-WF" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-320" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-447" value="MF-Proxy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-447" value="MF-Proxy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="-168.25" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-453" target="bVZNavHaQ_ImXWAmaFeS-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-453" value="MF-WF" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-453" value="MF-WF" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-320" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
