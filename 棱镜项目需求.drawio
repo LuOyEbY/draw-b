@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T08:49:08.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kvZmO8OTikMpt2B5zmq5" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T08:52:02.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DDqRo4ux75Me75BTXtW6" version="20.8.23" type="github">
   <diagram name="第 1 页" id="no80ZFOdHZovuy_X-tqP">
     <mxGraphModel dx="1834" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-11" value="MF-ConApi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1000" width="120" height="370" as="geometry" />
+          <mxGeometry x="-320" y="1320" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-11">
           <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="164.25" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-109" value="微聊群职位映射表" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;rounded=0;shadow=0;glass=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1165" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="-30" y="1485" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-13" target="bVZNavHaQ_ImXWAmaFeS-109">
           <mxGeometry relative="1" as="geometry" />
@@ -188,10 +188,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-116" value="微聊群职位映射表接口封装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="920" width="260" height="40" as="geometry" />
+          <mxGeometry x="-320" y="1240" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-117" value="MF-Proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1000" width="120" height="370" as="geometry" />
+          <mxGeometry x="160" y="1320" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-117">
           <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="55" y="250" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-121" value="IM-Bus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1000" width="120" height="370" as="geometry" />
+          <mxGeometry x="400" y="1320" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-122" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-121">
           <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
@@ -217,8 +217,8 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-118" target="bVZNavHaQ_ImXWAmaFeS-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="1096" />
-              <mxPoint x="280" y="1096" />
+              <mxPoint x="280" y="1416" />
+              <mxPoint x="280" y="1416" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -230,16 +230,16 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-122" target="bVZNavHaQ_ImXWAmaFeS-118">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="1120" />
-              <mxPoint x="400" y="1120" />
+              <mxPoint x="400" y="1440" />
+              <mxPoint x="400" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-119" target="bVZNavHaQ_ImXWAmaFeS-123">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="1180" />
-              <mxPoint x="280" y="1180" />
+              <mxPoint x="280" y="1500" />
+              <mxPoint x="280" y="1500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,16 +251,16 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-123" target="bVZNavHaQ_ImXWAmaFeS-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="1202" />
-              <mxPoint x="400" y="1202" />
+              <mxPoint x="400" y="1522" />
+              <mxPoint x="400" y="1522" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-120" target="bVZNavHaQ_ImXWAmaFeS-124">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="1256" />
-              <mxPoint x="280" y="1256" />
+              <mxPoint x="280" y="1576" />
+              <mxPoint x="280" y="1576" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -272,13 +272,13 @@
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-124" target="bVZNavHaQ_ImXWAmaFeS-120">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="1279" />
-              <mxPoint x="400" y="1279" />
+              <mxPoint x="400" y="1599" />
+              <mxPoint x="400" y="1599" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-135" value="MF-Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1400" width="120" height="370" as="geometry" />
+          <mxGeometry x="-320" y="1720" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-136" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="bVZNavHaQ_ImXWAmaFeS-135">
           <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
@@ -291,10 +291,10 @@
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-136">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="1590" as="targetPoint" />
+            <mxPoint y="1910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-120" y="1510" />
-              <mxPoint x="-120" y="1590" />
+              <mxPoint x="-120" y="1830" />
+              <mxPoint x="-120" y="1910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -313,10 +313,10 @@
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-138">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="1590" as="targetPoint" />
+            <mxPoint y="1910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-120" y="1670" />
-              <mxPoint x="-120" y="1590" />
+              <mxPoint x="-120" y="1990" />
+              <mxPoint x="-120" y="1910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -326,7 +326,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-146" value="IM-GROUP-ES" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1" y="1566" width="39" height="48" as="geometry" />
+          <mxGeometry x="1" y="1886" width="39" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-151" target="bVZNavHaQ_ImXWAmaFeS-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-151" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;rounded=0;shadow=0;glass=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-154" target="bVZNavHaQ_ImXWAmaFeS-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-154" value="微聊消息页" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=rgb(255, 255, 255);labelBackgroundColor=default;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-156" target="bVZNavHaQ_ImXWAmaFeS-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-156" value="全部消息" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=rgb(255, 255, 255);labelBackgroundColor=default;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-158" value="MF-PC" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=rgb(255, 255, 255);labelBackgroundColor=default;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="105.5" y="940" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
