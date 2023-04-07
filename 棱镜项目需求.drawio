@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T08:38:09.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Sou3FVb1vCkXxyeUPUA1" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T08:38:45.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qwFkfZI3-HrTuhNQ9Mhb" version="20.8.23" type="github">
   <diagram name="第 1 页" id="no80ZFOdHZovuy_X-tqP">
     <mxGraphModel dx="1834" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-133" value="查询用户群消息接口封装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="bVZNavHaQ_ImXWAmaFeS-127">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-133" value="查询用户加入群接口封装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="bVZNavHaQ_ImXWAmaFeS-127">
           <mxGeometry x="-0.2926" y="3" relative="1" as="geometry">
             <mxPoint x="34" as="offset" />
           </mxGeometry>
@@ -243,7 +243,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-134" value="查询用户单聊消息接口封装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="bVZNavHaQ_ImXWAmaFeS-129">
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-134" value="查询用户全部消息接口封装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="bVZNavHaQ_ImXWAmaFeS-129">
           <mxGeometry x="-0.1602" y="1" relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
           </mxGeometry>
