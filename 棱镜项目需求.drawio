@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:25:02.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FlP8YX12KI2a2wnF-6pu" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:50:32.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BLfPYaIAx46N3WNcWRIj" version="20.8.23" type="github">
   <diagram name="第 1 页" id="no80ZFOdHZovuy_X-tqP">
     <mxGraphModel dx="2634" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-1" value="棱镜需求-微聊群消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="120" width="200" height="40" as="geometry" />
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-1" value="棱镜需求-微聊群消息设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="120" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-7">
           <mxGeometry relative="1" as="geometry">
@@ -107,40 +107,42 @@
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" target="bVZNavHaQ_ImXWAmaFeS-89">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-910" y="370" as="sourcePoint" />
+            <mxPoint x="-240" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-87" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;rounded=0;shadow=0;glass=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="-320" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-89" target="bVZNavHaQ_ImXWAmaFeS-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-730" y="370" />
-              <mxPoint x="-730" y="290" />
+              <mxPoint x="-60" y="620" />
+              <mxPoint x="-60" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-89" target="bVZNavHaQ_ImXWAmaFeS-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-89" target="bVZNavHaQ_ImXWAmaFeS-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-89" target="bVZNavHaQ_ImXWAmaFeS-97">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="620" />
+              <mxPoint x="-60" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-89" value="微聊消息页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="-200" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-91" target="bVZNavHaQ_ImXWAmaFeS-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-91" value="全部消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
-          <mxGeometry x="-710" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bVZNavHaQ_ImXWAmaFeS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="bVZNavHaQ_ImXWAmaFeS-93" target="bVZNavHaQ_ImXWAmaFeS-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bVZNavHaQ_ImXWAmaFeS-93" value="项目消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
-          <mxGeometry x="-710" y="350" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bVZNavHaQ_ImXWAmaFeS-97" value="招聘消息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=20;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
-          <mxGeometry x="-710" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
