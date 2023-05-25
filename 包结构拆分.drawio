@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:09:28.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UsN5rNaMv8xrjlkgJ154" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:18:39.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bVUtHKcqcfQh_7mq4ATL" version="21.3.2" type="github">
   <diagram name="第 1 页" id="KPdWBSgJGvTVy5CmeSln">
-    <mxGraphModel dx="1834" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="120" width="500" height="340" as="geometry" />
+          <mxGeometry x="-1040" y="-560" width="640" height="430" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-4" target="WN0TrOZoKTcmKVf8WNJ2-7">
           <mxGeometry relative="1" as="geometry" />
@@ -61,6 +61,13 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-11" target="WN0TrOZoKTcmKVf8WNJ2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-11" target="WN0TrOZoKTcmKVf8WNJ2-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-11" value="启动外呼任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="-480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -94,10 +101,10 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-27" target="WN0TrOZoKTcmKVf8WNJ2-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-27" value="简历推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-27" value="推荐简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-30" value="人工圈选" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-30" value="人工简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-32" value="获取简历密号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -105,6 +112,54 @@
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-38" value="外呼用户圈选" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-40" value="简历打分" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.608;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.33;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-1" target="WN0TrOZoKTcmKVf8WNJ2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-530" y="-330" as="sourcePoint" />
+            <mxPoint x="-480" y="-380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-660" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="-530" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-46" value="预测式外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-48" value="一键外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-460" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-51" value="智能外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-52" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-360" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-53" value="外呼任务" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-54" value="话务数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-55" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-290" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-56" value="ai-call" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-57" value="外呼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-58" value="AI-Lab&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-280" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
