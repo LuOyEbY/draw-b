@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:42:01.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dg6xvk8MPGHGD_ktHb01" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:48:47.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i4SjH_sO9vfDdUvtklyQ" version="21.3.2" type="github">
   <diagram name="第 1 页" id="KPdWBSgJGvTVy5CmeSln">
     <mxGraphModel dx="2634" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,14 +267,8 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-84" value="记录群发消息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-86" target="WN0TrOZoKTcmKVf8WNJ2-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-86" value="简历推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="590" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-88" value="企微账号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-90" target="WN0TrOZoKTcmKVf8WNJ2-91">
           <mxGeometry relative="1" as="geometry" />
@@ -292,20 +286,26 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-91" target="WN0TrOZoKTcmKVf8WNJ2-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-91" value="创建企微标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-91" value="回显标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-120" y="810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-93" target="WN0TrOZoKTcmKVf8WNJ2-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-93" value="绑定企微标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-93" target="WN0TrOZoKTcmKVf8WNJ2-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-93" value="编辑标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-95" value="记录企微标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-97" value="简历电话" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-97" value="查询简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-99" value="更新简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
