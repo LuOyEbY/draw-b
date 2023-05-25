@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:03:10.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="m60WMVt4zT28R0qJtF3y" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:03:29.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5OcE8mPkKnBTGaVPeri7" version="21.3.2" type="github">
   <diagram name="第 1 页" id="KPdWBSgJGvTVy5CmeSln">
     <mxGraphModel dx="3034" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,10 +349,10 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-116" value="企微群发" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-880" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-117" value="企微群发" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-117" value="企微标签" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-790" y="545" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-118" value="企微群发" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-118" value="企微好友" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-790" y="620" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-122" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.54;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-119" target="WN0TrOZoKTcmKVf8WNJ2-1">
