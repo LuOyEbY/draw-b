@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:42:53.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7kacnBiMS_7B9z1MFXUv" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:43:01.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l0aew2yiTGfypQo3EF4W" version="21.3.2" type="github">
   <diagram name="第 1 页" id="KPdWBSgJGvTVy5CmeSln">
     <mxGraphModel dx="2847" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -532,14 +532,8 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-223" value="黑名单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="1130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN0TrOZoKTcmKVf8WNJ2-225" target="WN0TrOZoKTcmKVf8WNJ2-227">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-225" value="联系提醒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-227" value="简历保护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
