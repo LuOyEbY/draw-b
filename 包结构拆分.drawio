@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T07:59:47.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jKmubcodWEshoelJEzSb" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T08:51:55.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7DWVCYnwvf6SAy2HxPII" version="21.3.4" type="github">
   <diagram name="第 1 页" id="KPdWBSgJGvTVy5CmeSln">
-    <mxGraphModel dx="2794" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3274" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,7 +513,7 @@
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-218" value="简历密号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-500" y="1750" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-221" value="恒星简历库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="WN0TrOZoKTcmKVf8WNJ2-221" value="恒星简历列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-500" y="1810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WN0TrOZoKTcmKVf8WNJ2-223" value="黑名单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
