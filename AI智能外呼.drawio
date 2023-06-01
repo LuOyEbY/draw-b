@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T09:26:09.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sBJ_wjbmkXbBQQNjs9w1" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T09:54:38.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lxSz9EdpFib0KCKcyMvy" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -843,6 +843,31 @@
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-391" value="实时获取FAQ" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="118.5" y="2760" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-399" value="MF- WF" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2760" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-400" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fontFamily=Helvetica;fontSize=19;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="9t2iQ5_xq1MDEgZ4yFrh-399">
+          <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-401" value="MF-CoApi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="2760" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-402" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fontFamily=Helvetica;fontSize=19;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="9t2iQ5_xq1MDEgZ4yFrh-401">
+          <mxGeometry x="55" y="90" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-405" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-400" target="9t2iQ5_xq1MDEgZ4yFrh-402">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="2859" />
+              <mxPoint x="460" y="2859" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-406" value="获取答案的接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="9t2iQ5_xq1MDEgZ4yFrh-405">
+          <mxGeometry x="-0.0292" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
