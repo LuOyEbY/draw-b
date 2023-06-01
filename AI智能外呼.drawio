@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T02:53:39.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Vqgle61DeSI7uqvGCLnA" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T03:13:03.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0rI_MfNtV7xaKZ4EQKYS" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,65 @@
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-1" value="外呼执行流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-3" target="9t2iQ5_xq1MDEgZ4yFrh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-3" target="9t2iQ5_xq1MDEgZ4yFrh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-3" value="简历圈选结果" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-5" target="9t2iQ5_xq1MDEgZ4yFrh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-5" target="9t2iQ5_xq1MDEgZ4yFrh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-5" value="任务职位信息" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-7" target="9t2iQ5_xq1MDEgZ4yFrh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-7" value="职位面试场次" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-15" target="9t2iQ5_xq1MDEgZ4yFrh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-15" value="简历圈选结果，包含简历基本信息（简历ID，电话号码，姓名，简历类型）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-19" value="职位信息获取（包含话术需要的槽位信息）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fad9d5;strokeColor=#ae4132;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-21" target="9t2iQ5_xq1MDEgZ4yFrh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-21" value="面试场次信息（包含第二天及以后的所有面试场次）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#b1ddf0;strokeColor=#10739e;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-23" target="9t2iQ5_xq1MDEgZ4yFrh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-23" target="9t2iQ5_xq1MDEgZ4yFrh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-23" target="9t2iQ5_xq1MDEgZ4yFrh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-23" value="AI推送接口数据组装" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-27" value="推送" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
