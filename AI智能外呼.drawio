@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:12:48.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RVOgp98EQSVKd2kCBuin" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:13:19.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r23L-rfodmg8oaM9zYL0" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,13 +166,13 @@
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-44" value="前置校验" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="440" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-45" target="9t2iQ5_xq1MDEgZ4yFrh-52">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-45" target="9t2iQ5_xq1MDEgZ4yFrh-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-45" value="当前批次外呼进度是否满足70%" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-52" value="查询话务数据ES，根据任务ID和批次" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-52" value="查询话务数据ES，根据任务ID和批次" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
