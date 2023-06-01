@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:03:17.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CaOqvB_3HMF2_6YKSeqX" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:09:01.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="algjA-khZ-2qe8s9MdXM" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,16 +164,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-44" value="前置校验" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-45" target="9t2iQ5_xq1MDEgZ4yFrh-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-40" y="440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-45" value="当前批次外呼进度是否满足70%" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-47" value="当前批次外呼进度是否满足70%" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="550" width="140" height="40" as="geometry" />
+          <mxGeometry x="160" y="440" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
