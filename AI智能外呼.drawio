@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:43:04.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L7aHJB9vEfkii_GFzwOe" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:43:57.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EXE-OeWW7--pe_mrCQ_D" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,13 +254,13 @@
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-99" target="9t2iQ5_xq1MDEgZ4yFrh-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-99" value="是否存在结束任务的标识" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-99" value="查询任务状态是否为执行中" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="85" y="520" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-104" value="跳过" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="560" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-108" value="查询结束任务标识" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-108" value="查询任务状态" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="425" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
