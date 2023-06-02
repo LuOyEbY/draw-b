@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:33:21.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="60jCxzuAQFjkiK0IYD3w" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:33:46.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8Udr3R6DRfg3KlwK3PiR" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1834" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1004,7 +1004,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-491" value="WMB-话务数据" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3160" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-493" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="3455" width="330" height="170" as="geometry" />
@@ -1034,13 +1034,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-504" value="解析意向标签" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3240" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-509" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-506" target="9t2iQ5_xq1MDEgZ4yFrh-508">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-506" value="判断意向标签逻辑" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3320" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-511" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-508" target="9t2iQ5_xq1MDEgZ4yFrh-510">
           <mxGeometry relative="1" as="geometry" />
@@ -1049,13 +1049,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-508" value="获取当前职位轮询DL" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3400" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-538" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-510" target="9t2iQ5_xq1MDEgZ4yFrh-537">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-510" value="数据组装" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3480" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-515" value="redis-实现轮询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="3205" width="151.5" height="30" as="geometry" />
@@ -1126,10 +1126,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-537" value="创建主投简历" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3550" width="160" height="40" as="geometry" />
+          <mxGeometry x="960" y="3550" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-541" value="不参与主投本身的轮询" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="3530" width="120" height="80" as="geometry" />
+          <mxGeometry x="1160" y="3530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
