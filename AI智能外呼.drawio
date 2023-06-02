@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T03:00:04.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="saXlxhZrziab-Aptbwis" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T03:27:51.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sqR8SMcS-gOH6_JbeM73" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
-    <mxGraphModel dx="2260" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-73" target="9t2iQ5_xq1MDEgZ4yFrh-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-73" value="当前批次外呼进度是否满足70%" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-73" value="当前推送的全部简历和呼叫的简历差值&amp;lt;=30" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113.5" y="2400" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-78" value="跳过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=16;" vertex="1" parent="1">
@@ -879,6 +879,9 @@
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-408" value="字段暂时未确定" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="2820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-409" value="getAnswer接口调整" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-41.5" y="3080" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
