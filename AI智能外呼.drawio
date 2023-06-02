@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T03:27:51.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sqR8SMcS-gOH6_JbeM73" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T03:28:06.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FemXozdlbdxz7YXmdgMN" version="21.3.4" type="github">
   <diagram name="第 1 页" id="2_SS_FIXoPFDnZohHgw8">
     <mxGraphModel dx="1993" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-44" value="前置校验" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="108.5" y="1910" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-52" value="查询话务数据ES，根据任务ID和批次聚合外呼进度" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=0;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-52" value="查询话务数据ES，根据任务ID聚合外呼整体进度" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;labelBackgroundColor=none;rounded=0;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="355" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9t2iQ5_xq1MDEgZ4yFrh-72" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="9t2iQ5_xq1MDEgZ4yFrh-62" target="9t2iQ5_xq1MDEgZ4yFrh-71">
