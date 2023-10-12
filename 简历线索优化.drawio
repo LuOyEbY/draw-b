@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T02:48:40.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="i4HrEt7-XUOihYplzfMV" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T02:49:45.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3qkON42GxT6CxDIjt6Gt" version="22.0.4" type="github">
   <diagram name="第 1 页" id="OrRKJHkGYLy3WlFda9Tv">
     <mxGraphModel dx="2234" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLLDddUYPioC8cufe7mP-45" value="接口细节" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="-720" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bLLDddUYPioC8cufe7mP-47" value="MF-RESUMEAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;labelBackgroundColor=none;labelBorderColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-350" y="240" width="120" height="300" as="geometry" />
