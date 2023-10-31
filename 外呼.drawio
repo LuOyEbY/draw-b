@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T06:56:49.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="toLuTwv8GemyJuz_9P5y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:47:29.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="j4TvT1Y3CuP8hmzRs57B" version="22.0.8" type="github">
   <diagram name="第 1 页" id="I5vmAxsKrM3oIu-w4Qc6">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kVRhlrWW7srU3xCj6tED-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.call_manager;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-360" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/613/aiga_telephone_bg-128.png" vertex="1" parent="1">
+          <mxGeometry x="535" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-353" width="80" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-610" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;strokeColor=#FF6666;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-18" target="kVRhlrWW7srU3xCj6tED-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-360" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3399;strokeWidth=6;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-17" target="kVRhlrWW7srU3xCj6tED-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF9933;strokeWidth=6;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-13" target="kVRhlrWW7srU3xCj6tED-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;strokeColor=#FF3399;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-21" target="kVRhlrWW7srU3xCj6tED-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-360" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;strokeColor=#3399FF;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-32" target="kVRhlrWW7srU3xCj6tED-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
