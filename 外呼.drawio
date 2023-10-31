@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T08:03:59.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AGjc4p9x3jGBgMUhvedA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T08:13:40.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4KcL09FO084fxB2Xgb-3" version="22.0.8" type="github">
   <diagram name="第 1 页" id="I5vmAxsKrM3oIu-w4Qc6">
-    <mxGraphModel dx="1434" dy="1590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,28 @@
           <mxGeometry x="-0.3429" y="1" relative="1" as="geometry">
             <mxPoint x="21" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2127/48/social_media_social_media_logo_wechat-128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-40" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 32px;&quot;&gt;群发&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-39" target="kVRhlrWW7srU3xCj6tED-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-39" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="594" y="80" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;strokeWidth=6;" edge="1" parent="1" source="kVRhlrWW7srU3xCj6tED-41" target="kVRhlrWW7srU3xCj6tED-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-43" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;AI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;" vertex="1" connectable="0" parent="kVRhlrWW7srU3xCj6tED-42">
+          <mxGeometry x="-0.0693" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVRhlrWW7srU3xCj6tED-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="900" y="319" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
