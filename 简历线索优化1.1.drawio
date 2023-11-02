@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T06:25:47.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RGxb5IYcxDvBvVXniqFO" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:31:21.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iuPQkl7_8pVcllQVjCL_" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ihjfTGa4Z9mBENfCkQT5">
     <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,24 @@
         </mxCell>
         <mxCell id="Ea9zUbj0oUbrzYRTjW1f-95" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="360" y="2455" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-98" target="Ea9zUbj0oUbrzYRTjW1f-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-98" value="Begin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-100" target="Ea9zUbj0oUbrzYRTjW1f-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-100" value="resumeApi" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF8000;strokeWidth=2;align=left;horizontal=1;verticalAlign=top;fontSize=21;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2640" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-101" value="付费简历推荐过滤策略移除主投策略" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="2680" width="150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-102" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2715" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
