@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:00:03.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="rnCIgvlLdv3U_J_55p54" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T02:32:56.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PvnCTCwb_c7VuscFfO2o" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ihjfTGa4Z9mBENfCkQT5">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-35" target="Ea9zUbj0oUbrzYRTjW1f-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-35" value="resumeApi" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF8000;strokeWidth=3;verticalAlign=top;align=left;fontSize=20;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="590" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-34" target="Ea9zUbj0oUbrzYRTjW1f-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-34" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;strokeWidth=3;align=left;horizontal=1;verticalAlign=top;fontSize=21;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-24" target="Ea9zUbj0oUbrzYRTjW1f-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-24" value="resumeApi" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF8000;strokeWidth=3;verticalAlign=top;align=left;fontSize=20;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="145" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-19" target="Ea9zUbj0oUbrzYRTjW1f-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-19" value="W-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;strokeWidth=3;align=left;horizontal=1;verticalAlign=top;fontSize=21;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="180" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-1" value="求职轨迹更新简历定时任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-80" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-3" target="Ea9zUbj0oUbrzYRTjW1f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-3" value="Begin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-4" value="获取最近30天的邀约记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="65" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-8" value="邀约记录反查简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-10" value="简历查询最近30天的3条邀约记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-12" value="期望职类和期望城市匹配" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-14" value="更新简历并记录日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="195" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-18" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="610" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-25" value="求职轨迹更新简历增量监听" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-120" y="460" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ea9zUbj0oUbrzYRTjW1f-26" target="Ea9zUbj0oUbrzYRTjW1f-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-26" value="Begin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-27" value="监听邀约记录" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-29" value="反查职位要求" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-30" value="职类和地域匹配" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-31" value="更新简历并记录日志" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-32" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="610" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-41" value="精确召回匹配条件扩充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-120" y="840" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-43" value="Begin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-46" value="城市召回支持二级地域召回" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="900" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea9zUbj0oUbrzYRTjW1f-48" value="职类召回支持一二级召回" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1000" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
