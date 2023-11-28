@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T06:52:04.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O39busykSWjhonmHwgvh" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T07:13:17.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wAeBpUPlCxVr2V2a0N6C" version="22.1.4" type="github">
   <diagram name="第 1 页" id="KiBO0PeVWjHBBkZiibji">
     <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,13 +107,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-70" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="-40" y="990" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-72" target="JpRInRD_3Gb2IMDQWBs1-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-72" value="邀约管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1010" width="130" height="40" as="geometry" />
+          <mxGeometry x="90" y="1010" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-75" target="JpRInRD_3Gb2IMDQWBs1-77">
           <mxGeometry relative="1" as="geometry" />
@@ -125,25 +125,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-75" value="简历线索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1010" width="130" height="40" as="geometry" />
+          <mxGeometry x="260" y="1010" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-77" target="JpRInRD_3Gb2IMDQWBs1-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-77" value="主投简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="420" y="920" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="920" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-79" target="JpRInRD_3Gb2IMDQWBs1-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-79" value="付费推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1010.0000000000001" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="1010.0000000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-80" value="旧逻辑兼容新分页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="540" y="920" width="169" height="40" as="geometry" />
+          <mxGeometry x="580" y="920" width="169" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-81" value="旧逻辑兼容新分页+去除恒星推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1010.0000000000001" width="305" height="40" as="geometry" />
+          <mxGeometry x="580" y="1010.0000000000001" width="305" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-82" value="MF- PC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#6c8ebf;fillColor=#DAE8FC;labelBackgroundColor=none;labelBorderColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1318" width="120" height="300" as="geometry" />
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-91" value="接口细节" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1258" width="100" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-92" value="MF-RESUMEAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fontFamily=Helvetica;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;labelBackgroundColor=none;labelBorderColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="1318" width="120" height="300" as="geometry" />
@@ -289,10 +289,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-114" value="自主添加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1100" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-115" value="旧逻辑兼容新分页+新增筛选项和展示参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1100" width="380" height="40" as="geometry" />
+          <mxGeometry x="580" y="1100" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-119" target="JpRInRD_3Gb2IMDQWBs1-120">
           <mxGeometry relative="1" as="geometry" />
@@ -341,11 +341,14 @@
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-138" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="1860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JpRInRD_3Gb2IMDQWBs1-139" value="call-list接口改造" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1720" width="140" height="40" as="geometry" />
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-139" value="自主添加数据定时清除接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1720" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-142" value="简历线索接口变动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="840" width="170" height="40" as="geometry" />
+          <mxGeometry x="-40" y="840" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-143" value="call-list接口改造" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2040" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
