@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T07:13:17.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wAeBpUPlCxVr2V2a0N6C" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T07:45:41.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vYNLMA8Ba7muVgugkgcG" version="22.1.4" type="github">
   <diagram name="第 1 页" id="KiBO0PeVWjHBBkZiibji">
     <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,8 +347,35 @@
         <mxCell id="JpRInRD_3Gb2IMDQWBs1-142" value="简历线索接口变动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-40" y="840" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JpRInRD_3Gb2IMDQWBs1-143" value="call-list接口改造" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="2040" width="140" height="40" as="geometry" />
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-143" value="监听沟通记录的添加变更自主添加数据的跟进状态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2030" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-145" target="JpRInRD_3Gb2IMDQWBs1-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-145" value="resumeApi" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF8000;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;fontColor=#FF8000;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2130" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-147" target="JpRInRD_3Gb2IMDQWBs1-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-147" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;strokeWidth=2;align=left;horizontal=1;verticalAlign=top;fontSize=21;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2130" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpRInRD_3Gb2IMDQWBs1-149" target="JpRInRD_3Gb2IMDQWBs1-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-149" value="Begin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-150" value="监听沟通记录表的新增数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2185" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-151" value="更新数据的跟进状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpRInRD_3Gb2IMDQWBs1-152" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
