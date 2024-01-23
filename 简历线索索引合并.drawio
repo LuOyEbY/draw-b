@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:05:26.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FDBoDaxIwv_qENgYpdiL" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T08:05:38.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_uW9teKeDmZU3TDT18ZO" version="22.1.20" type="github">
   <diagram name="第 1 页" id="IvLhAiH7EyRF6yPdtCSv">
     <mxGraphModel dx="1593" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
         <mxCell id="fokVRQq-qGCGtbH7lqMj-76" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="560" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fokVRQq-qGCGtbH7lqMj-79" value="后续优化交互，替换为前端透传职位ID，且为单选" style="whiteSpace=wrap;html=1;strokeColor=#66B2FF;rounded=0;dashed=1;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-79" value="后续优化交互，替换为前端透传职位ID，且为单选" style="whiteSpace=wrap;html=1;strokeColor=#FF3333;rounded=0;dashed=1;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="925" y="500" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-81" value="可以上ES，减少查询耗时,目前看暂无必要" style="whiteSpace=wrap;html=1;strokeColor=#FF8000;rounded=0;dashed=1;strokeWidth=2;fontColor=#FF8000;fontSize=20;align=left;" vertex="1" parent="1">
