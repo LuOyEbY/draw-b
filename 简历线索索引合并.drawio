@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:36:30.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OfgCHIashYh5vVff-sfD" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T11:15:31.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1jY2kHrkrg8RM4ufJhZV" version="22.1.20" type="github">
   <diagram name="第 1 页" id="IvLhAiH7EyRF6yPdtCSv">
     <mxGraphModel dx="2393" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,11 +321,11 @@
         <mxCell id="fokVRQq-qGCGtbH7lqMj-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-120" target="fokVRQq-qGCGtbH7lqMj-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fokVRQq-qGCGtbH7lqMj-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-134" target="fokVRQq-qGCGtbH7lqMj-155">
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-134" target="fokVRQq-qGCGtbH7lqMj-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fokVRQq-qGCGtbH7lqMj-134" value="简历线索doc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-19.25" y="2220" width="110" height="40" as="geometry" />
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-134" value="去重" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-19.25" y="2240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-148" target="fokVRQq-qGCGtbH7lqMj-111">
           <mxGeometry relative="1" as="geometry" />
@@ -365,7 +365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-155" value="mopin_resume_clue" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;" vertex="1" parent="1">
-          <mxGeometry x="16.25" y="2300" width="39" height="48" as="geometry" />
+          <mxGeometry x="16.25" y="2470" width="39" height="48" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-157" target="fokVRQq-qGCGtbH7lqMj-158">
           <mxGeometry relative="1" as="geometry" />
@@ -421,13 +421,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-169" value="简历线索页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="2304" width="120" height="40" as="geometry" />
+          <mxGeometry x="-290" y="2474" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-170" target="fokVRQq-qGCGtbH7lqMj-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-170" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-510" y="2284" width="80" height="80" as="geometry" />
+          <mxGeometry x="-510" y="2454" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-173" target="fokVRQq-qGCGtbH7lqMj-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-173" value="简历线索doc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-19.25" y="2350" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
