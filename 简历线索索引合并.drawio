@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T07:42:03.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rh-Bv6Oa8cS33H5I39WP" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T07:43:47.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1dczg97NP5zWjlQgDDri" version="22.1.20" type="github">
   <diagram name="第 1 页" id="IvLhAiH7EyRF6yPdtCSv">
     <mxGraphModel dx="1687" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="810" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="620" width="520" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-80" target="fokVRQq-qGCGtbH7lqMj-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="780" />
+              <mxPoint x="980" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF8000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="650" width="160" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3399FF;strokeColor=#3399FF;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-39" target="fokVRQq-qGCGtbH7lqMj-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -119,12 +136,6 @@
         <mxCell id="fokVRQq-qGCGtbH7lqMj-40" value="内存处理，基本耗时可忽略" style="whiteSpace=wrap;html=1;strokeColor=#66B2FF;rounded=0;dashed=1;strokeWidth=2;align=left;verticalAlign=top;fontColor=#3399FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fokVRQq-qGCGtbH7lqMj-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="810" width="520" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="fokVRQq-qGCGtbH7lqMj-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="620" width="520" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-47" target="fokVRQq-qGCGtbH7lqMj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -224,6 +235,9 @@
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-79" value="替换为前端透传职位ID，且为单选" style="whiteSpace=wrap;html=1;strokeColor=#66B2FF;rounded=0;dashed=1;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="925" y="500" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-81" value="可以上ES，减少查询耗时" style="whiteSpace=wrap;html=1;strokeColor=#FF8000;rounded=0;dashed=1;strokeWidth=2;fontColor=#FF8000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1090" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
