@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T11:36:57.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-GfnLE0abYSxzWIWw4C0" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T11:39:27.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ed_Erb5fhGwbyJjbj88n" version="22.1.20" type="github">
   <diagram name="第 1 页" id="IvLhAiH7EyRF6yPdtCSv">
     <mxGraphModel dx="1555" dy="14" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-259" value="线索库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="2070" width="250" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-246" value="人才库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="2990" y="1680" width="250" height="250" as="geometry" />
         </mxCell>
@@ -616,6 +619,27 @@
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-252" value="免费简历" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#FFCC99;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3010" y="1720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-253" value="人才库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1970" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-254" value="简历库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="1970" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-255" value="自主添加" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="2130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-256" value="主动投递" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="2070" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-257" value="付费简历" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="3250" y="2130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-258" value="免费简历" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#FFCC99;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="2070" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-260" value="我的访客" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=middle;strokeColor=#FF66FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="2230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
