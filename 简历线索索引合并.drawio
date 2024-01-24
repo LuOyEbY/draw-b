@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T08:20:16.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_TCdZB590tV9SuQIbHqw" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T11:32:54.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9GIi94uZik7e62iyhJvm" version="22.1.20" type="github">
   <diagram name="第 1 页" id="IvLhAiH7EyRF6yPdtCSv">
-    <mxGraphModel dx="2712" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-246" value="人才库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1680" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-247" value="简历库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="1680" width="250" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-241" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#FF3399;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1560" width="1190" height="390" as="geometry" />
         </mxCell>
@@ -598,6 +604,9 @@
         </mxCell>
         <mxCell id="fokVRQq-qGCGtbH7lqMj-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fokVRQq-qGCGtbH7lqMj-214" target="fokVRQq-qGCGtbH7lqMj-182">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fokVRQq-qGCGtbH7lqMj-249" value="线索库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=bottom;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1856" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
