@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T07:42:00.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8hzUvhXv8was5mPtIqBu" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T08:18:45.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5OalVxCJdHREiviBXNo_" version="23.0.0" type="github">
   <diagram name="第 1 页" id="c8fIhuiG2VhrQn8hY_Cm">
-    <mxGraphModel dx="1594" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="uIM-vCdFYYvPqXACWQKx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-7" target="uIM-vCdFYYvPqXACWQKx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-7" value="魔方简历库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-7" value="魔方简历库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-9" target="uIM-vCdFYYvPqXACWQKx-7">
@@ -40,7 +40,7 @@
         <mxCell id="uIM-vCdFYYvPqXACWQKx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-11" target="uIM-vCdFYYvPqXACWQKx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-11" value="私有人才库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-11" value="私有人才库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-13" target="uIM-vCdFYYvPqXACWQKx-22">
@@ -49,55 +49,55 @@
         <mxCell id="uIM-vCdFYYvPqXACWQKx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-13" target="uIM-vCdFYYvPqXACWQKx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-13" value="简历详情页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-13" value="简历详情页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-19" target="uIM-vCdFYYvPqXACWQKx-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-19" value="恒星简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-19" value="恒星简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="-480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-22" target="uIM-vCdFYYvPqXACWQKx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-22" value="魔方简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-22" value="魔方简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="-340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-25" target="uIM-vCdFYYvPqXACWQKx-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-25" value="下载简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-25" value="下载简历" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="10" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-29" target="uIM-vCdFYYvPqXACWQKx-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-29" value="获取密号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-29" value="获取密号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="470" y="-507.5" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-31" target="uIM-vCdFYYvPqXACWQKx-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-31" value="拨打电话" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-31" value="拨打电话" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="650" y="-535" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-33" target="uIM-vCdFYYvPqXACWQKx-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-33" value="展示明文手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-33" value="展示明文手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="-340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-49" target="uIM-vCdFYYvPqXACWQKx-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-49" value="自己的手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-49" value="自己的手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="650" y="-340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-51" value="系统主叫" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-51" value="系统主叫" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="665" y="-495" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-52" value="自己的手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-52" value="自己的手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="665" y="-445" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-55" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="uIM-vCdFYYvPqXACWQKx-60" value="魔方现状" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-640" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-61" value="A X G" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-61" value="A X G" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="485" y="-470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIM-vCdFYYvPqXACWQKx-62">
@@ -114,7 +114,7 @@
             <mxPoint x="10" y="-380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uIM-vCdFYYvPqXACWQKx-62" value="简历线索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="uIM-vCdFYYvPqXACWQKx-62" value="简历线索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-65" value="系统主叫" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
