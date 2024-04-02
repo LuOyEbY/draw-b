@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:51:22.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vUE6DnZRRnIThag9L6pi" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T08:59:03.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="j2pZlOZ_nWz0d2QJ0DI9" version="24.2.1" type="github">
   <diagram name="第 1 页" id="c8fIhuiG2VhrQn8hY_Cm">
     <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-34" target="OGyPYaXYTlwn-IDak6KF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="960" width="140" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#99CCFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="290" y="-370" width="500" height="110" as="geometry" />
         </mxCell>
@@ -187,7 +193,7 @@
           <mxGeometry x="-320" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIM-vCdFYYvPqXACWQKx-93" value="AXG" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="920" width="70" height="40" as="geometry" />
+          <mxGeometry x="-320" y="880" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OGyPYaXYTlwn-IDak6KF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-1" target="OGyPYaXYTlwn-IDak6KF-3">
           <mxGeometry relative="1" as="geometry" />
@@ -241,6 +247,33 @@
         </mxCell>
         <mxCell id="OGyPYaXYTlwn-IDak6KF-17" value="1.对DL和C的手机号做隐私保护&lt;br style=&quot;font-size: 17px;&quot;&gt;2.DL的手机号来显为Y，C可以通过Y联系DL,DL的来显是X&lt;br&gt;3.可以拿到双程的通话录音和记录&lt;div&gt;4.成本公式：需要的X密号数量=DL数量*DL手机数量*2（余量50%计算）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;需要的Y密号数量=DL一天联系C的数量*2&lt;span style=&quot;background-color: initial;&quot;&gt;（余量50%计算）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="240" y="720" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-24" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="970" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-25" value="C" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1005" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-27" target="OGyPYaXYTlwn-IDak6KF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-27" value="x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1005" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-29" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="970" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-30" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="970" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-31" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1050" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-32" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1050" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-33" value="DL" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="1050" width="45" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
