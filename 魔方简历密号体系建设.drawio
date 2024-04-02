@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:21:33.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fyAa9ATbWNWQKg2A4vCS" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T08:46:36.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qRO9AxO_-w0TS9EMnjBi" version="24.2.1" type="github">
   <diagram name="第 1 页" id="c8fIhuiG2VhrQn8hY_Cm">
     <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,8 +207,8 @@
         <mxCell id="OGyPYaXYTlwn-IDak6KF-3" value="x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-90" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OGyPYaXYTlwn-IDak6KF-7" value="1.只对C的手机号做隐私保护&lt;br style=&quot;font-size: 17px;&quot;&gt;2.DL的手机号来显为明文，C可以联系DL&lt;br&gt;3.只能拿到DL呼叫C的通话录音，C单独联系DL拿不到&lt;div&gt;4.成本公式：需要的密号数量=DL数量*DL手机数量*2（余量50%计算）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="580" height="100" as="geometry" />
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-7" value="1.只对C的手机号做隐私保护&lt;br style=&quot;font-size: 17px;&quot;&gt;2.DL的手机号来显为明文，C可以联系DL，此时C回拨DL能获取C的明文手机号&lt;br&gt;3.只能拿到DL呼叫C的通话录音，C单独联系DL拿不到&lt;div&gt;4.成本公式：需要的密号数量=DL数量*DL手机数量*2（余量50%计算）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="610" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OGyPYaXYTlwn-IDak6KF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-9" target="OGyPYaXYTlwn-IDak6KF-12">
           <mxGeometry relative="1" as="geometry" />
@@ -222,8 +222,28 @@
         <mxCell id="OGyPYaXYTlwn-IDak6KF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-12" target="OGyPYaXYTlwn-IDak6KF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-12" target="OGyPYaXYTlwn-IDak6KF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OGyPYaXYTlwn-IDak6KF-12" value="x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-90" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-13" target="OGyPYaXYTlwn-IDak6KF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-13" value="Y" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OGyPYaXYTlwn-IDak6KF-10" target="OGyPYaXYTlwn-IDak6KF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="742" />
+              <mxPoint x="100" y="742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-17" value="1.对DL和C的手机号做隐私保护&lt;br style=&quot;font-size: 17px;&quot;&gt;2.DL的手机号来显为X，C可以通过X联系DL,DL的来显是Y&lt;br&gt;3.可以拿到双程的通话录音和记录&lt;div&gt;4.成本公式：需要的密号数量=DL数量*DL手机数量*2（余量50%计算）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="580" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
