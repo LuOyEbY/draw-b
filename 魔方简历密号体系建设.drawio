@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:41:47.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uYmlPHcYM6pBgJMuSGFN" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T07:02:54.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="luL8PLyoFftJu9yzz4f5" version="24.2.1" type="github">
   <diagram name="第 1 页" id="c8fIhuiG2VhrQn8hY_Cm">
-    <mxGraphModel dx="2286" dy="1620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="OGyPYaXYTlwn-IDak6KF-38" value="1.只对C的手机号做隐私保护，组内的任何一个DL都可以通过X联系C&lt;br style=&quot;font-size: 17px;&quot;&gt;2.DL的手机号来显为明文，C可以联系DL，此时C回拨DL能获取C的明文手机号&lt;br&gt;3.只能拿到DL呼叫C的通话录音，C单独联系DL拿不到&lt;div&gt;4.成本公式：需要的密号数量=DL数量*DL联系的C的数量*2（余量50%计算）&lt;br&gt;5.与AXB的区别：1.组内的DL视为一个整体G，都可以通过X联系C&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.节省密号，提升密号的复用率&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="240" y="960" width="680" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OGyPYaXYTlwn-IDak6KF-39" value="DL数量（日均活跃）=650&lt;div&gt;AI双呼日推送简历=1W&lt;/div&gt;&lt;div&gt;魔方:恒心=2:1&lt;/div&gt;&lt;div&gt;峰值推送AI接口=100QPS&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1200" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
