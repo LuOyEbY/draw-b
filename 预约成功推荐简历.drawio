@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:08:19.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WK241L3HV03yk5vId5zp" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:11:08.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ez-LjKFi0x02xROaGUHb" version="24.2.1" type="github">
   <diagram name="第 1 页" id="kUkytzxFKHXI6aaRq8Xd">
-    <mxGraphModel dx="2193" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,9 @@
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-31" value="精排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-335" y="530" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OI-L_ZJMBE-tHtLO6cfq-38" target="OI-L_ZJMBE-tHtLO6cfq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-349.3699999999998" y="610" width="159.37" height="60" as="geometry" />
         </mxCell>
@@ -149,6 +152,12 @@
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-63" value="实体转换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="298.1199999999999" y="610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-109.99999999999977" y="610" width="159.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-66" value="期望职位和地域高亮逻辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-95.31000000000006" y="620" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
