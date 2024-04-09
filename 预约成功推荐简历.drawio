@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:34:50.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ypMbeek6dF7lgy5G2H85" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:36:15.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wEMmJ0GDWSDx14go0jou" version="24.2.1" type="github">
   <diagram name="第 1 页" id="kUkytzxFKHXI6aaRq8Xd">
     <mxGraphModel dx="1834" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,6 +134,21 @@
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-53" value="简历推荐列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="286.40999999999997" y="720" width="152.18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OI-L_ZJMBE-tHtLO6cfq-57" target="OI-L_ZJMBE-tHtLO6cfq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="282.81" y="360" width="158.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-58" value="简历线索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="298.18999999999994" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="282.8100000000002" y="600" width="159.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-63" value="实体转换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="298.1199999999999" y="610" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
