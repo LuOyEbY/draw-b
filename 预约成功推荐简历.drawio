@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:34:44.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PsqDWTOUPZ-YTwU_IrjF" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:34:50.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ypMbeek6dF7lgy5G2H85" version="24.2.1" type="github">
   <diagram name="第 1 页" id="kUkytzxFKHXI6aaRq8Xd">
     <mxGraphModel dx="1834" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-48" value="简历推荐列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-346.09000000000003" y="720" width="152.18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OI-L_ZJMBE-tHtLO6cfq-50" target="OI-L_ZJMBE-tHtLO6cfq-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-50" value="预约成功简历推荐场景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="259.99999999999994" y="260" width="205" height="40" as="geometry" />
