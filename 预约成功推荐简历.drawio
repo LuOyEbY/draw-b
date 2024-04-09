@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:34:07.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="j4ctTZPcE9S0gAJeFvi3" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:35:06.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9vLTEAJqI37x2Nn89qoJ" version="24.2.1" type="github">
   <diagram name="第 1 页" id="kUkytzxFKHXI6aaRq8Xd">
     <mxGraphModel dx="1834" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-11" value="调用付费简历推荐接口（不传推荐人）" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;align=center;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="-60" width="380" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-21" value="需求整体流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
