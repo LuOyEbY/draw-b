@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:20:50.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iXlE6d_-e1xleZJVYgSZ" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:30:53.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dXkaczRSEp1yYOQXuOM5" version="24.2.1" type="github">
   <diagram name="第 1 页" id="kUkytzxFKHXI6aaRq8Xd">
     <mxGraphModel dx="1834" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,26 @@
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-6" value="推荐求职者页面" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-102.5" width="150" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OI-L_ZJMBE-tHtLO6cfq-8" target="OI-L_ZJMBE-tHtLO6cfq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="-124" />
+              <mxPoint x="490" y="-210" />
+              <mxPoint x="5" y="-210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-8" value="调用简历推荐接口（精确召回）" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="-145" width="290" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-L_ZJMBE-tHtLO6cfq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OI-L_ZJMBE-tHtLO6cfq-11" target="OI-L_ZJMBE-tHtLO6cfq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="-39" />
+              <mxPoint x="550" y="60" />
+              <mxPoint x="5" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OI-L_ZJMBE-tHtLO6cfq-11" value="调用付费简历推荐接口（不传推荐人）" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="-60" width="380" height="42.5" as="geometry" />
