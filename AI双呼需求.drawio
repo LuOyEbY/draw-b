@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:39:29.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l4Gtrx2Cliit4BsvqoJA" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:40:36.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tFptSVRlo_xQ2EwLHCqJ" version="24.2.5" type="github">
   <diagram name="第 1 页" id="DuCJjmCydaRT3wfmN0sx">
     <mxGraphModel dx="2234" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,6 +67,9 @@
         <mxCell id="5mczPunQaWqGgRols-cB-21" value="增加实时问答开关" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="172.5" width="130" height="62.5" as="geometry" />
         </mxCell>
+        <mxCell id="5mczPunQaWqGgRols-cB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5mczPunQaWqGgRols-cB-23" target="5mczPunQaWqGgRols-cB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5mczPunQaWqGgRols-cB-23" value="增加开关参数" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="130" height="35" as="geometry" />
         </mxCell>
@@ -88,8 +91,17 @@
         <mxCell id="5mczPunQaWqGgRols-cB-29" value="透传开关参数" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="186.25" width="130" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="5mczPunQaWqGgRols-cB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5mczPunQaWqGgRols-cB-31" target="5mczPunQaWqGgRols-cB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5mczPunQaWqGgRols-cB-31" value="根据开关，推送不同的话术机器人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="680" y="416.25" width="130" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5mczPunQaWqGgRols-cB-33" value="bizId" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="715" y="540" width="60" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5mczPunQaWqGgRols-cB-35" value="haveAiQa" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=20;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="505" width="130" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
