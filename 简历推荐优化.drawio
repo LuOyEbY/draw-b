@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T09:32:54.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a2nj57_WH3zUPLNJp-2y" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:34:56.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EfGF477bxEuqqUUfHlwZ" version="24.2.8" type="github">
   <diagram name="第 1 页" id="r8e8spuCt5Y078xBdNFk">
     <mxGraphModel dx="1834" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,36 @@
         </mxCell>
         <mxCell id="uhzMS2UGq0Mrr6mBy7hM-26" value="现状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhzMS2UGq0Mrr6mBy7hM-28" target="uhzMS2UGq0Mrr6mBy7hM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-28" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-160" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-29" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry y="280" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-31" value="主投" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-33" value="自主添加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-35" value="简历推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-36" value="简历线索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-40" value="终态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="203" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-41" value="联系提醒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhzMS2UGq0Mrr6mBy7hM-43" value="二次提醒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="440" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
