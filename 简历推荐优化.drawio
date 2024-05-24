@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T06:23:49.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oWReCPgvA86vc5bc59-G" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T06:29:29.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j2ELJyc5VAeCyIY-3vTg" version="24.4.7" type="github">
   <diagram name="第 1 页" id="r8e8spuCt5Y078xBdNFk">
     <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,8 +277,8 @@
         <mxCell id="XbflFL2ed4Tl44ry38PZ-41" value="新简历，新机会" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="710" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XbflFL2ed4Tl44ry38PZ-43" value="今日已下载" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="XbflFL2ed4Tl44ry38PZ-43" value="今日已下载？" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XbflFL2ed4Tl44ry38PZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XbflFL2ed4Tl44ry38PZ-46" target="XbflFL2ed4Tl44ry38PZ-47">
           <mxGeometry relative="1" as="geometry" />
