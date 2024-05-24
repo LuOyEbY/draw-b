@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T07:13:13.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kAofAIAtmHM8XDUMU6Ea" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:04:15.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ws0XCqELFP5PLjO0u3U4" version="24.4.7" type="github">
   <diagram name="第 1 页" id="r8e8spuCt5Y078xBdNFk">
     <mxGraphModel dx="1834" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
         <mxCell id="XbflFL2ed4Tl44ry38PZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="XbflFL2ed4Tl44ry38PZ-47" target="XbflFL2ed4Tl44ry38PZ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XbflFL2ed4Tl44ry38PZ-47" value="简历线索" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XbflFL2ed4Tl44ry38PZ-47" value="简历推荐" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="840" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XbflFL2ed4Tl44ry38PZ-49" value="业务过滤" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
@@ -307,7 +307,7 @@
         <mxCell id="XbflFL2ed4Tl44ry38PZ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XbflFL2ed4Tl44ry38PZ-55" target="XbflFL2ed4Tl44ry38PZ-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XbflFL2ed4Tl44ry38PZ-55" value="简历线索" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XbflFL2ed4Tl44ry38PZ-55" value="简历推荐" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="985" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XbflFL2ed4Tl44ry38PZ-56" value="业务过滤" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
@@ -325,7 +325,7 @@
         <mxCell id="XbflFL2ed4Tl44ry38PZ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XbflFL2ed4Tl44ry38PZ-61" target="XbflFL2ed4Tl44ry38PZ-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XbflFL2ed4Tl44ry38PZ-61" value="简历线索" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XbflFL2ed4Tl44ry38PZ-61" value="简历推荐" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1125" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XbflFL2ed4Tl44ry38PZ-62" value="业务过滤" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fontSize=20;" vertex="1" parent="1">
