@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T08:57:32.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="818QzORftgDnzgr4OMF2" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T08:58:01.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EIPyWH2KIdG9LUKURpyE" version="24.4.8" type="github">
   <diagram name="第 1 页" id="r8e8spuCt5Y078xBdNFk">
     <mxGraphModel dx="3193" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -864,7 +864,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9cV2ciJ80pshOOCChsl-187" value="1.新增时增加关联职位&lt;div&gt;2.查询时增加新的排序&lt;/div&gt;&lt;div&gt;3.查询时只查询提醒时间是当天的&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1367.5" y="2600" width="125" height="130" as="geometry" />
+          <mxGeometry x="-1383.75" y="2600" width="157.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
