@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T06:54:59.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YZBXKE6Q_eoTdVcAu7dI" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T06:57:04.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bLaOD2Yv6IWyWahI6sY2" version="24.4.8" type="github">
   <diagram name="第 1 页" id="r8e8spuCt5Y078xBdNFk">
     <mxGraphModel dx="3193" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
         <mxCell id="q9cV2ciJ80pshOOCChsl-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startArrow=classic;startFill=1;" edge="1" parent="1" source="q9cV2ciJ80pshOOCChsl-60" target="q9cV2ciJ80pshOOCChsl-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q9cV2ciJ80pshOOCChsl-60" value="统一的简历池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q9cV2ciJ80pshOOCChsl-60" value="统一的简历池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#00FF00;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-599.38" y="1235" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9cV2ciJ80pshOOCChsl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="q9cV2ciJ80pshOOCChsl-74" target="q9cV2ciJ80pshOOCChsl-86">
